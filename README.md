@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 2025-2029 Northeatsern Uni
 Sijing Deng
 
-Animal Science
+Animal Science 2021-2024
+
+Computer science 2025-present
