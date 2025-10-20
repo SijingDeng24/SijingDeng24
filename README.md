@@ -26,3 +26,7 @@ R studio
 
 work experience
 target team  member
+
+
+kali the cat
+keanu the dog
