@@ -19,3 +19,7 @@ Sijing Deng
 Animal Science 2021-2024
 
 Computer science 2025-present
+
+skill
+animal breeding
+R studio
