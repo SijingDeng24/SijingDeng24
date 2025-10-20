@@ -23,3 +23,6 @@ Computer science 2025-present
 skill
 animal breeding
 R studio
+
+work experience
+target team  member
