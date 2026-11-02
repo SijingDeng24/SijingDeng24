@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Sijing Deng 👋
+CS student at Northeastern (Robotics minor) · U.S. Citizen · U.S. Coast Guard Reserve  
+**Seeking a co-op for Jan–Jun 2027**
 
-<!--
-**SijingDeng24/SijingDeng24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I build
+- 🔎 **rag-assistant**: ask questions about your own PDFs, get answers with page-level citations (Python, FastAPI, Chroma)
+- 🎮 **GameNite**: full-stack multiplayer game platform (TypeScript, React, Express, Socket.io, Vitest)
+- 🧠 **RISC-V on FPGA**: single-cycle processor, ALU, and FSMs on a DE1-SoC board
 
-Here are some ideas to get you started:
+### Tools
+Python · TypeScript · Java · C/C++ · SQL · React · Node/Express · FastAPI · Socket.io · pytest · Vitest · MySQL · MongoDB · Git/GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 deng.siji@northeastern.edu · [LinkedIn](https://linkedin.com/in/sijingdeng)
